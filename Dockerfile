@@ -1,6 +1,6 @@
 # DESCRIPTION:    Image with weechat
 # TO_BUILD:       docker build -t amcorreia/docker-weechat .
-# TO_RUN:         docker run -it --rm --name weechat amcorreia/docker-weechat
+# TO_RUN:         docker run -it --rm --read-only --name weechat amcorreia/docker-weechat
 
 # Base docker image
 FROM alpine:latest
