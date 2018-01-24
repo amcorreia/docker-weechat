@@ -1,0 +1,2 @@
+# docker-weechat
+weechat image
